@@ -1,0 +1,74 @@
+@font-face {
+    font-family: "nanum-bold";
+    src: url("../font/NanumMyeongjo-Bold.ttf");
+}
+
+@font-face {
+    font-family: "nanum-ex-bold";
+    src: url("../font/NanumMyeongjo-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: "nanum-regular";
+    src: url("../font/NanumMyeongjo-Regular.ttf");
+}
+
+@font-face {
+    font-family: "noto-Light";
+    src: url("../font/NotoSansKR-Light.otf");
+}
+
+@font-face {
+    font-family: "noto-Regular";
+    src: url("../font/NotoSansKR-Regular.otf");
+}
+
+@font-face {
+    font-family: "noto-Medium";
+    src: url("../font/NotoSansKR-Medium.otf");
+}
+
+@font-face {
+    font-family: "noto-Bold";
+    src: url("../font/NotoSansKR-Bold.otf");
+}
+
+.vw-20 {
+    width: 20vw;
+}
+
+.vw-30 {
+    width: 30vw;
+}
+
+.vw-50 {
+    width: 50vw;
+}
+
+.vw-60 {
+    width: 60vw;
+}
+
+.font-15 {
+    font-size: 14px;
+}
+
+.font-23 {
+    font-size: 20px;
+}
+
+.color-main {
+    color: #3182f6;
+}
+
+.color-425968 {
+    color: #425968;
+}
+
+.bg-main {
+    background-color: #3182f6;
+}
+
+.bg-f9fafb {
+    background-color: #f2f4f6;
+}
